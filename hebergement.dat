@@ -1,0 +1,5 @@
+nom surface prixnuithorssaison prixnuitsaison taxesejour nbchambre
+cabane 21 30.00 60.00 0.66 2
+caravanestandard 23 35.00 70.00 0.66 2
+caravaneconfort 28 45.00 90.00 0.66 3
+chalet 35 80.00 160.00 0.66 4
